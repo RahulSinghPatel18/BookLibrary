@@ -1,0 +1,85 @@
+[
+    
+     {
+         "id": 1,
+         "image": "https://m.media-amazon.com/images/I/61Csiq-T2hL._SL500_.jpg",
+         "category": "Paid",
+         "price": 7.99,
+         "title": "The Name of the Wind",
+         "name": "Patrick Rothfuss"
+     },
+     
+     
+     {
+         "id": 9,
+         "image": "https://images-na.ssl-images-amazon.com/images/I/81t2CVWEsUL.jpg",
+         "category": "Paid",
+         "price": 10.99,
+         "title": "The Lord of the Rings",
+         "name": "J.R.R. Tolkien"
+     },
+    
+     {
+         "id": 3,
+         "image": "https://images.penguinrandomhouse.com/cover/9780345339683",
+         "category": "Free",
+         "price": 0,
+         "title": "The Hobbit",
+         "name": "J.R.R. Tolkien"
+     },
+    
+     {
+         "id": 4,
+         "image": "https://m.media-amazon.com/images/I/91dSMhdIzTL.jpg",
+         "category": "Free",
+         "price": 9.99,
+         "title": "A Game of Thrones",
+         "name": "George R.R. Martin"
+     },
+     
+     {
+         "id": 5,
+         "image": "https://m.media-amazon.com/images/I/81dQwQlmAXL._AC_UF1000,1000_QL80_.jpg",
+         "category": "Free",
+         "price": 0,
+         "title": "Dune",
+         "name": "Frank Herbert"
+     },
+
+     
+     {
+          "id": 6,
+          "image": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+          "category": "Paid",
+          "price": 11.99,
+          "title": "The Name of the Wind",
+          "name": "Patrick Rothfuss"
+      },
+      {
+          "id": 7,
+          "image": "https://m.media-amazon.com/images/I/91dSMhdIzTL._AC_UF1000,1000_QL80_.jpg",
+          "category": "Free",
+          "price": 7.99,
+          "title": "The Way of Kings",
+          "name": "Brandon Sanderson"
+      },
+     
+      {
+          "id": 8,
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL._AC_UF1000,1000_QL80_.jpg",
+          "category": "Free",
+          "price": 0,
+          "title": "The Hobbit",
+          "name": "J.R.R. Tolkien"
+      },
+      {
+          "id": 9,
+          "image": "https://m.media-amazon.com/images/I/91dSMhdIzTL._AC_UF1000,1000_QL80_.jpg",
+          "category": "Free",
+          "price": 0,
+          "title": "The Way of Kings",
+          "name": "Brandon Sanderson"
+      }
+      
+ ]
+ 

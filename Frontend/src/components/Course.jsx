@@ -74,7 +74,7 @@ import { Link } from "react-router-dom";
           </h1>
           <h1 id="buy" className="text-4xl text-pink-400 font-semibold text-center mix-blend-exclusion "> Buy a Course</h1>
           <div className=" flex justify-center w-[100%] h-[100%] py-10 object-cover">
-            <video className="w-[60%] h-[60%]" mute loop autoPlay src="https://media.istockphoto.com/id/1495795502/video/book-03.mp4?s=mp4-640x640-is&k=20&c=7rCqAXkcfbsVbqHCUxK0jseKq_M1kLAoKS9g-UcY_ao="></video>
+            <video className="w-[60%] h-[60%]" mute loop autoPlay src="video.mov"></video>
             </div>
             
           <p className="mt-20 w-[94%] opacity-0">
